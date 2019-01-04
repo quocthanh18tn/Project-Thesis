@@ -1,0 +1,27 @@
+E:\LVTN\Projects\KFLOP\KFLOP\KFLOP\bin\Debug\KFLOP.exe
+E:\LVTN\Projects\KFLOP\KFLOP\KFLOP\bin\Debug\KFLOP.pdb
+E:\LVTN\Projects\KFLOP\KFLOP\KFLOP\obj\Debug\ResolveAssemblyReference.cache
+E:\LVTN\Projects\KFLOP\KFLOP\KFLOP\obj\Debug\KFLOP.Form1.resources
+E:\LVTN\Projects\KFLOP\KFLOP\KFLOP\obj\Debug\KFLOP.Properties.Resources.resources
+E:\LVTN\Projects\KFLOP\KFLOP\KFLOP\obj\Debug\KFLOP.csproj.GenerateResource.Cache
+E:\LVTN\Projects\KFLOP\KFLOP\KFLOP\obj\Debug\KFLOP.exe
+E:\LVTN\Projects\KFLOP\KFLOP\KFLOP\obj\Debug\KFLOP.pdb
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\obj\Debug\KFLOP.exe
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\obj\Debug\KFLOP.pdb
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\bin\Debug\KFLOP.exe
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\bin\Debug\KFLOP.pdb
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\obj\Debug\ResolveAssemblyReference.cache
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\obj\Debug\KFLOP.Form1.resources
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\obj\Debug\KFLOP.Properties.Resources.resources
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\obj\Debug\KFLOP.csproj.GenerateResource.Cache
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\bin\Debug\KMotion_dotNet.xml
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\obj\Debug\KFLOP.Command.resources
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\obj\Debug\KFLOP.Config.resources
+G:\aduc\008 - May dot lo Busbar dung KFLOP\008 - May dot lo Busbar dung KFLOP\KFLOP v1.3.1\KFLOP\obj\Debug\KFLOP.exe
+G:\aduc\008 - May dot lo Busbar dung KFLOP\008 - May dot lo Busbar dung KFLOP\KFLOP v1.3.1\KFLOP\obj\Debug\KFLOP.pdb
+G:\luan_van\MayDucDong\May dot dong\visual2017\KFLOP v1.3.1\KFLOP\obj\Debug\KFLOP.exe
+G:\luan_van\MayDucDong\May dot dong\visual2017\KFLOP v1.3.1\KFLOP\obj\Debug\KFLOP.pdb
+G:\luan_van\MayDucDong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\Debug\KFLOP.exe
+G:\luan_van\MayDucDong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\Debug\KFLOP.pdb
+C:\Program Files (x86)\Ampps\www\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\Debug\KFLOP.exe
+C:\Program Files (x86)\Ampps\www\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\Debug\KFLOP.pdb

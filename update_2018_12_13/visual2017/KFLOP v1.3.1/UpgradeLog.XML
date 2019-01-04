@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="KFLOP">
+</Property><Property Name="Solution File" Value="C:\Users\KuRE\Desktop\KFLOP v1.3.1\KFLOP.sln">
+</Property><Property Name="User Options File" Value="C:\Users\KuRE\Desktop\KFLOP v1.3.1\KFLOP.suo">
+</Property><Property Name="Date" Value="Tuesday, June 23, 2015">
+</Property><Property Name="Time" Value="02:24 MrKido">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="KFLOP.sln" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP.sln">
+</Event><Event ErrorLevel="0" Project="" Source="KFLOP.suo" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP.suo">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\KFLOP.csproj" Description="Project file successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\KFLOP.csproj">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Command.cs" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Command.cs">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Command.Designer.cs" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Command.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Config.cs" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Config.cs">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Config.Designer.cs" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Config.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Form1.cs" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Form1.cs">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Form1.Designer.cs" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Program.cs" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Program.cs">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Review.cs" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Review.cs">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Review.Designer.cs" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Review.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Properties\Settings.settings" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Resources\UpNew.png" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Resources\UpNew.png">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Resources\RightNew.png" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Resources\RightNew.png">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Resources\DownNew.png" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Resources\DownNew.png">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Resources\LeftNew.png" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Resources\LeftNew.png">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Resources\LogoNew.png" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Resources\LogoNew.png">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Resources\HCMUT.png" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Resources\HCMUT.png">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Command.resx" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Command.resx">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Config.resx" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Config.resx">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Form1.resx" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Form1.resx">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Properties\Resources.resx" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\Review.resx" Description="File successfully backed up as C:\Users\KuRE\Desktop\KFLOP v1.3.1\Backup\KFLOP\Review.resx">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\KFLOP.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="KFLOP" Source="KFLOP\KFLOP.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="KFLOP.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="KFLOP.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="KFLOP" Source="KFLOP\KFLOP.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

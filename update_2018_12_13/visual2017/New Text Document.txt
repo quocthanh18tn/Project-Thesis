@@ -1,0 +1,5 @@
+send_data_to_server: replace ip address of server
+ send_data_to_local:replace ip address of local
+check_connect_server: replace ip address of server\
+SynData(): HTTPREQUEST: replace ip address server
+	Webrequest: replace ip addresss local

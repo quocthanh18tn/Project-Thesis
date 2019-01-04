@@ -1,0 +1,127 @@
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\bin\x86\Debug\KFLOP.exe
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\bin\x86\Debug\KFLOP.pdb
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\obj\x86\Debug\KFLOP.Form1.resources
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\obj\x86\Debug\KFLOP.Properties.Resources.resources
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\obj\x86\Debug\KFLOP.csproj.GenerateResource.Cache
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\obj\x86\Debug\KFLOP.exe
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\obj\x86\Debug\KFLOP.pdb
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\obj\x86\Debug\KFLOP.Command.resources
+e:\LVTN SVN\Projects\KFLOP\KFLOP\KFLOP\obj\x86\Debug\KFLOP.Config.resources
+e:\LVTN SVN\Projects\Graphic KFLOP\KFLOP\KFLOP\obj\x86\Debug\KFLOP.exe
+e:\LVTN SVN\Projects\Graphic KFLOP\KFLOP\KFLOP\obj\x86\Debug\KFLOP.pdb
+e:\LVTN SVN\Projects\Graphic KFLOP\KFLOP\KFLOP\bin\x86\Debug\KFLOP.exe
+e:\LVTN SVN\Projects\Graphic KFLOP\KFLOP\KFLOP\bin\x86\Debug\KFLOP.pdb
+e:\LVTN SVN\Projects\Graphic KFLOP\KFLOP\KFLOP\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\LVTN SVN\Projects\Graphic KFLOP\KFLOP\KFLOP\obj\x86\Debug\KFLOP.Command.resources
+e:\LVTN SVN\Projects\Graphic KFLOP\KFLOP\KFLOP\obj\x86\Debug\KFLOP.Config.resources
+e:\LVTN SVN\Projects\Graphic KFLOP\KFLOP\KFLOP\obj\x86\Debug\KFLOP.Form1.resources
+e:\LVTN SVN\Projects\Graphic KFLOP\KFLOP\KFLOP\obj\x86\Debug\KFLOP.Properties.Resources.resources
+e:\LVTN SVN\Projects\Graphic KFLOP\KFLOP\KFLOP\obj\x86\Debug\KFLOP.csproj.GenerateResource.Cache
+H:\KFLOP\KFLOP\obj\x86\Debug\KFLOP.exe
+H:\KFLOP\KFLOP\obj\x86\Debug\KFLOP.pdb
+H:\KFLOP\KFLOP\bin\x86\Debug\KFLOP.exe
+H:\KFLOP\KFLOP\bin\x86\Debug\KFLOP.pdb
+H:\KFLOP\KFLOP\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\KFLOP\KFLOP\obj\x86\Debug\KFLOP.Command.resources
+H:\KFLOP\KFLOP\obj\x86\Debug\KFLOP.Config.resources
+H:\KFLOP\KFLOP\obj\x86\Debug\KFLOP.Form1.resources
+H:\KFLOP\KFLOP\obj\x86\Debug\KFLOP.Properties.Resources.resources
+H:\KFLOP\KFLOP\obj\x86\Debug\KFLOP.csproj.GenerateResource.Cache
+E:\LVTN SVN\Projects\KFLOP\KFLOP\obj\x86\Debug\KFLOP.exe
+E:\LVTN SVN\Projects\KFLOP\KFLOP\obj\x86\Debug\KFLOP.pdb
+E:\LVTN SVN\Projects\KFLOP\KFLOP\bin\x86\Debug\KFLOP.exe
+E:\LVTN SVN\Projects\KFLOP\KFLOP\bin\x86\Debug\KFLOP.pdb
+E:\LVTN SVN\Projects\KFLOP\KFLOP\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\LVTN SVN\Projects\KFLOP\KFLOP\obj\x86\Debug\KFLOP.Command.resources
+E:\LVTN SVN\Projects\KFLOP\KFLOP\obj\x86\Debug\KFLOP.Config.resources
+E:\LVTN SVN\Projects\KFLOP\KFLOP\obj\x86\Debug\KFLOP.Form1.resources
+E:\LVTN SVN\Projects\KFLOP\KFLOP\obj\x86\Debug\KFLOP.Properties.Resources.resources
+E:\LVTN SVN\Projects\KFLOP\KFLOP\obj\x86\Debug\KFLOP.csproj.GenerateResource.Cache
+E:\LVTN SVN\Projects\KFLOP\KFLOP\obj\x86\Debug\KFLOP.Review.resources
+C:\Users\KuRE\Desktop\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.exe
+C:\Users\KuRE\Desktop\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.pdb
+C:\Users\KuRE\Desktop\KFLOP v1.3.1\KFLOP\bin\x86\Debug\KFLOP.exe
+C:\Users\KuRE\Desktop\KFLOP v1.3.1\KFLOP\bin\x86\Debug\KFLOP.pdb
+C:\Users\KuRE\Desktop\KFLOP v1.3.1\KFLOP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KuRE\Desktop\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Command.resources
+C:\Users\KuRE\Desktop\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Config.resources
+C:\Users\KuRE\Desktop\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Form1.resources
+C:\Users\KuRE\Desktop\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Properties.Resources.resources
+C:\Users\KuRE\Desktop\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Review.resources
+C:\Users\KuRE\Desktop\KFLOP v1.3.1\KFLOP\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\KuRE\Desktop\KFLOP v1.3.1\KFLOP\obj\x86\Debug\ResGen.write.1.tlog
+G:\aduc\008 - May dot lo Busbar dung KFLOP\008 - May dot lo Busbar dung KFLOP\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.exe
+G:\aduc\008 - May dot lo Busbar dung KFLOP\008 - May dot lo Busbar dung KFLOP\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.pdb
+G:\aduc\008 - May dot lo Busbar dung KFLOP\008 - May dot lo Busbar dung KFLOP\KFLOP v1.3.1\KFLOP\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\aduc\008 - May dot lo Busbar dung KFLOP\008 - May dot lo Busbar dung KFLOP\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Command.resources
+G:\aduc\008 - May dot lo Busbar dung KFLOP\008 - May dot lo Busbar dung KFLOP\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Config.resources
+G:\aduc\008 - May dot lo Busbar dung KFLOP\008 - May dot lo Busbar dung KFLOP\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Form1.resources
+G:\aduc\008 - May dot lo Busbar dung KFLOP\008 - May dot lo Busbar dung KFLOP\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.FormConfig.resources
+G:\aduc\008 - May dot lo Busbar dung KFLOP\008 - May dot lo Busbar dung KFLOP\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Properties.Resources.resources
+G:\aduc\008 - May dot lo Busbar dung KFLOP\008 - May dot lo Busbar dung KFLOP\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Review.resources
+G:\aduc\008 - May dot lo Busbar dung KFLOP\008 - May dot lo Busbar dung KFLOP\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.csproj.GenerateResource.Cache
+G:\aduc\008 - May dot lo Busbar dung KFLOP\008 - May dot lo Busbar dung KFLOP\KFLOP v1.3.1\KFLOP\bin\x86\Debug\KFLOP.exe
+G:\aduc\008 - May dot lo Busbar dung KFLOP\008 - May dot lo Busbar dung KFLOP\KFLOP v1.3.1\KFLOP\bin\x86\Debug\KFLOP.pdb
+C:\Users\bao\Desktop\May dot dong\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.exe
+C:\Users\bao\Desktop\May dot dong\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.pdb
+C:\Users\bao\Desktop\May dot dong\KFLOP v1.3.1\KFLOP\bin\x86\Debug\KFLOP.exe
+C:\Users\bao\Desktop\May dot dong\KFLOP v1.3.1\KFLOP\bin\x86\Debug\KFLOP.pdb
+C:\Users\bao\Desktop\May dot dong\KFLOP v1.3.1\KFLOP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bao\Desktop\May dot dong\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Command.resources
+C:\Users\bao\Desktop\May dot dong\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Config.resources
+C:\Users\bao\Desktop\May dot dong\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Form1.resources
+C:\Users\bao\Desktop\May dot dong\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.FormConfig.resources
+C:\Users\bao\Desktop\May dot dong\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Properties.Resources.resources
+C:\Users\bao\Desktop\May dot dong\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Review.resources
+C:\Users\bao\Desktop\May dot dong\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.csproj.GenerateResource.Cache
+G:\luan_van\MayDucDong\May dot dong\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.exe
+G:\luan_van\MayDucDong\May dot dong\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.pdb
+G:\luan_van\MayDucDong\May dot dong\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\luan_van\MayDucDong\May dot dong\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Command.resources
+G:\luan_van\MayDucDong\May dot dong\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Config.resources
+G:\luan_van\MayDucDong\May dot dong\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Form1.resources
+G:\luan_van\MayDucDong\May dot dong\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.FormConfig.resources
+G:\luan_van\MayDucDong\May dot dong\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Properties.Resources.resources
+G:\luan_van\MayDucDong\May dot dong\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Review.resources
+G:\luan_van\MayDucDong\May dot dong\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.csproj.GenerateResource.Cache
+G:\luan_van\MayDucDong\May dot dong\visual2017\KFLOP v1.3.1\KFLOP\bin\x86\Debug\KFLOP.exe
+G:\luan_van\MayDucDong\May dot dong\visual2017\KFLOP v1.3.1\KFLOP\bin\x86\Debug\KFLOP.pdb
+C:\Users\bao\Desktop\May dot dong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\bin\x86\Debug\KFLOP.exe
+C:\Users\bao\Desktop\May dot dong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\bin\x86\Debug\KFLOP.pdb
+C:\Users\bao\Desktop\May dot dong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.csprojAssemblyReference.cache
+C:\Users\bao\Desktop\May dot dong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Command.resources
+C:\Users\bao\Desktop\May dot dong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Config.resources
+C:\Users\bao\Desktop\May dot dong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Form1.resources
+C:\Users\bao\Desktop\May dot dong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.FormConfig.resources
+C:\Users\bao\Desktop\May dot dong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Properties.Resources.resources
+C:\Users\bao\Desktop\May dot dong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Review.resources
+C:\Users\bao\Desktop\May dot dong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.csproj.GenerateResource.cache
+C:\Users\bao\Desktop\May dot dong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.csproj.CoreCompileInputs.cache
+C:\Users\bao\Desktop\May dot dong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.csproj.CopyComplete
+C:\Users\bao\Desktop\May dot dong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.exe
+C:\Users\bao\Desktop\May dot dong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.pdb
+G:\luan_van\MayDucDong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.exe
+G:\luan_van\MayDucDong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.pdb
+G:\luan_van\MayDucDong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\bin\x86\Debug\KFLOP.exe
+G:\luan_van\MayDucDong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\bin\x86\Debug\KFLOP.pdb
+G:\luan_van\MayDucDong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\luan_van\MayDucDong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Command.resources
+G:\luan_van\MayDucDong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Config.resources
+G:\luan_van\MayDucDong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Form1.resources
+G:\luan_van\MayDucDong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.FormConfig.resources
+G:\luan_van\MayDucDong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Properties.Resources.resources
+G:\luan_van\MayDucDong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Review.resources
+G:\luan_van\MayDucDong\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Ampps\www\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.exe
+C:\Program Files (x86)\Ampps\www\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.pdb
+C:\Program Files (x86)\Ampps\www\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Program Files (x86)\Ampps\www\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Command.resources
+C:\Program Files (x86)\Ampps\www\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Config.resources
+C:\Program Files (x86)\Ampps\www\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Form1.resources
+C:\Program Files (x86)\Ampps\www\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.FormConfig.resources
+C:\Program Files (x86)\Ampps\www\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Properties.Resources.resources
+C:\Program Files (x86)\Ampps\www\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.Review.resources
+C:\Program Files (x86)\Ampps\www\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\obj\x86\Debug\KFLOP.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Ampps\www\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\bin\x86\Debug\KFLOP.exe
+C:\Program Files (x86)\Ampps\www\update_2018_12_13\visual2017\KFLOP v1.3.1\KFLOP\bin\x86\Debug\KFLOP.pdb
